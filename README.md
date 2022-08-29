@@ -1,4 +1,4 @@
-# AWS Encryption SDK for C
+# AWS Encryption SDK for C Language
 
 The AWS Encryption SDK for C is a client-side encryption library designed to make it easy for
 everyone to encrypt and decrypt data using industry standards and best practices. It uses a
